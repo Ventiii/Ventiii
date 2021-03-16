@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ventiii
+- 👀 I’m interested in Javascript, React JSX, GraphQL, C#, Unity, Lua & VEXT (Venice Unleashed)
+- 🌱 I’m currently a student at SAE Institute studying Games Development 
+- 💞️ I’m looking to collaborate and share ideas with anything 🤣
+- 📫 Can reach me by flicking an email to bradley_seemore@outlook.com
